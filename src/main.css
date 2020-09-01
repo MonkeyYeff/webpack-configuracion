@@ -1,0 +1,8 @@
+html,
+body {
+	background-image: linear-gradient(
+		to right top,
+		rgba(22, 22, 22, 0.795),
+		rgba(22, 22, 22, 0.795)
+	);
+}
